@@ -1,5 +1,5 @@
 
-#Functions available in Python
+#Functions available in Python for List
 
 # append = adds an element at the end of the list
 my_list= [2,5,7]  
